@@ -1,0 +1,326 @@
+{
+  "origins": [
+    {
+      "code": "KUL",
+      "name": "Kuala Lumpur",
+      "country": "Malaysia"
+    },
+    {
+      "code": "SIN",
+      "name": "Singapore",
+      "country": "Singapore"
+    }
+  ],
+  "airlines": [
+    {
+      "code": "NH",
+      "name": "ANA (All Nippon Airways)"
+    },
+    {
+      "code": "AK",
+      "name": "AirAsia"
+    },
+    {
+      "code": "OD",
+      "name": "Batik Air"
+    },
+    {
+      "code": "CX",
+      "name": "Cathay Pacific"
+    },
+    {
+      "code": "BR",
+      "name": "EVA Air"
+    },
+    {
+      "code": "EY",
+      "name": "Etihad Airways"
+    },
+    {
+      "code": "TK",
+      "name": "Turkish Airlines"
+    },
+    {
+      "code": "EK",
+      "name": "Emirates"
+    },
+    {
+      "code": "GF",
+      "name": "Gulf Air"
+    },
+    {
+      "code": "JL",
+      "name": "JAL (Japan Airlines)"
+    },
+    {
+      "code": "KE",
+      "name": "Korean Air"
+    }
+  ],
+  "destinations": [
+    [
+      "NRT",
+      "Tokyo",
+      "Japan",
+      "Asia"
+    ],
+    [
+      "KIX",
+      "Osaka",
+      "Japan",
+      "Asia"
+    ],
+    [
+      "ICN",
+      "Seoul",
+      "South Korea",
+      "Asia"
+    ],
+    [
+      "HKG",
+      "Hong Kong",
+      "Hong Kong",
+      "Asia"
+    ],
+    [
+      "TPE",
+      "Taipei",
+      "Taiwan",
+      "Asia"
+    ],
+    [
+      "PVG",
+      "Shanghai",
+      "China",
+      "Asia"
+    ],
+    [
+      "CAN",
+      "Guangzhou",
+      "China",
+      "Asia"
+    ],
+    [
+      "LHR",
+      "London",
+      "United Kingdom",
+      "Europe"
+    ],
+    [
+      "CDG",
+      "Paris",
+      "France",
+      "Europe"
+    ],
+    [
+      "AMS",
+      "Amsterdam",
+      "Netherlands",
+      "Europe"
+    ],
+    [
+      "FCO",
+      "Rome",
+      "Italy",
+      "Europe"
+    ],
+    [
+      "MXP",
+      "Milan",
+      "Italy",
+      "Europe"
+    ],
+    [
+      "VCE",
+      "Venice",
+      "Italy",
+      "Europe"
+    ],
+    [
+      "BCN",
+      "Barcelona",
+      "Spain",
+      "Europe"
+    ],
+    [
+      "MAD",
+      "Madrid",
+      "Spain",
+      "Europe"
+    ],
+    [
+      "ZRH",
+      "Zurich",
+      "Switzerland",
+      "Europe"
+    ],
+    [
+      "GVA",
+      "Geneva",
+      "Switzerland",
+      "Europe"
+    ],
+    [
+      "PRG",
+      "Prague",
+      "Czech Republic",
+      "Europe"
+    ],
+    [
+      "BUD",
+      "Budapest",
+      "Hungary",
+      "Europe"
+    ],
+    [
+      "VIE",
+      "Vienna",
+      "Austria",
+      "Europe"
+    ],
+    [
+      "FRA",
+      "Frankfurt",
+      "Germany",
+      "Europe"
+    ],
+    [
+      "MUC",
+      "Munich",
+      "Germany",
+      "Europe"
+    ],
+    [
+      "ATH",
+      "Athens",
+      "Greece",
+      "Europe"
+    ],
+    [
+      "LIS",
+      "Lisbon",
+      "Portugal",
+      "Europe"
+    ],
+    [
+      "OSL",
+      "Oslo",
+      "Norway",
+      "Europe"
+    ],
+    [
+      "ARN",
+      "Stockholm",
+      "Sweden",
+      "Europe"
+    ],
+    [
+      "JFK",
+      "New York",
+      "United States",
+      "North America"
+    ],
+    [
+      "LAX",
+      "Los Angeles",
+      "United States",
+      "North America"
+    ],
+    [
+      "YYZ",
+      "Toronto",
+      "Canada",
+      "North America"
+    ],
+    [
+      "YVR",
+      "Vancouver",
+      "Canada",
+      "North America"
+    ],
+    [
+      "YUL",
+      "Montreal",
+      "Canada",
+      "North America"
+    ],
+    [
+      "AKL",
+      "Auckland",
+      "New Zealand",
+      "Oceania"
+    ],
+    [
+      "CHC",
+      "Christchurch",
+      "New Zealand",
+      "Oceania"
+    ],
+    [
+      "ZQN",
+      "Queenstown",
+      "New Zealand",
+      "Oceania"
+    ],
+    [
+      "SYD",
+      "Sydney",
+      "Australia",
+      "Oceania"
+    ],
+    [
+      "MEL",
+      "Melbourne",
+      "Australia",
+      "Oceania"
+    ],
+    [
+      "BNE",
+      "Brisbane",
+      "Australia",
+      "Oceania"
+    ],
+    [
+      "PER",
+      "Perth",
+      "Australia",
+      "Oceania"
+    ],
+    [
+      "CPT",
+      "Cape Town",
+      "South Africa",
+      "Africa"
+    ],
+    [
+      "JNB",
+      "Johannesburg",
+      "South Africa",
+      "Africa"
+    ],
+    [
+      "NBO",
+      "Nairobi",
+      "Kenya",
+      "Africa"
+    ],
+    [
+      "CAI",
+      "Cairo",
+      "Egypt",
+      "Africa"
+    ],
+    [
+      "MEX",
+      "Mexico City",
+      "Mexico",
+      "Mexico"
+    ],
+    [
+      "CUN",
+      "Cancun",
+      "Mexico",
+      "Mexico"
+    ]
+  ]
+}
